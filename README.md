@@ -65,7 +65,7 @@ Contributions to the project are welcome. Please follow the standard Git workflo
 - Submit a pull request.
 
 #### License
-Specify the license under which your project is released, ensuring it's clear for contributors and users.
+Apache License 2.0
 
 ---
 
